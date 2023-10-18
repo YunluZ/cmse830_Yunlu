@@ -64,7 +64,6 @@ with tab1:
     recorded without any knowledge of the historical or angiographic results. Therefore, _there was no work-up bias._
      the dataset does have some missing data, such as "ca" (number of major vessels, ranging from 0 to 3, colored by fluoroscopy) and \
      "thal" (thalassemia), these missing data constitute less than 1% of the overall dataset and bear no significant impact on subsequent data analysis. \
-     Therefore, we do
      The missingness of this dataset is missing completely at random (MCAR).
     ''')
 
